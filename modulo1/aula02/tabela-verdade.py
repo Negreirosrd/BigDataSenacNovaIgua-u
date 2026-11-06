@@ -1,5 +1,5 @@
 
-### CONTEXTO 1:
+### CONTEXTO 1:  (Uso so operador AND)
 
 '''
 Para que eu possa dirigir, eu preciso ter:
